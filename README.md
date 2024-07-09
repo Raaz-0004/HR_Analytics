@@ -4,7 +4,6 @@ Objective:
 
 Help an organization to improve employee performance and improve employee retention(Reduce Attrition) by creating a HR Analytics Dashboard
 
-Owner of Ecommerce store wants us to help them creat a dashboard to analyze online sales across india.
 
 Problem Statement:
 
